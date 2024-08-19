@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manicuria",
+        "precio": 3000,
+        "img": "./../img/manicuria.jpg" 
+    },
+
+    {
+        "id": 2,
+        "nombre": "Semipermanente",
+        "precio": 4500,
+        "img": "./img/semipermanente.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Gelificadas",
+        "precio": 11500,
+        "img": "./img/gelificadas.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "kapping",
+        "precio": 8500,
+        "img": "./img/kapping.jpg"
+    }
+
+]

@@ -1,0 +1,24 @@
+
+[
+    {
+        "id": 5,
+        "nombre": "Depilacíon",
+        "precio": 9000,
+        "img": "./img/depilacion-laser.jpg" 
+    },
+
+    {
+        "id": 6,
+        "nombre": "Limpieza Facial",
+        "precio": 6700,
+        "img": "./img/limpieza-facial.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Body-up",
+        "precio": 8500,
+        "img": "./img/body-up.jpg"
+    }
+
+]
